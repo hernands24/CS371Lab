@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS301LayoutDemo</string>
+    <string name= "greetingText"> Bonjour tout le monde! </string>
+    <string name= "goodbyeText">Goodbye!</string>
+</resources>
